@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.alnadafinalproject">
+
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.alnadafinalproject">
+        <activity
+            android:name=".discount.RecyclerDiscountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".product.UpdateProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".category.RecyclerCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".category.UpdateCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".category.AddCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pager.ReportsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".invoice.ProductCartdesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".invoice.InvoiceDesign"
+            android:exported="false" />
+        <activity
+            android:name=".product.ProductDesign"
+            android:exported="false" />
+        <activity
+            android:name=".product.AddProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".supplier.UpdateSupplierActivity"
+            android:exported="false" />
+        <activity
+            android:name=".supplier.AddSupplierActivity"
+            android:exported="false" />
+        <activity
+            android:name=".customer.UpdateCustomerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".customer.AddCustomerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".discount.AddDiscountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".customer.RecyclerActivityDes"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplachActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

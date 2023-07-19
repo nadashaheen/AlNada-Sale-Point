@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_page1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".pager.PagerCustomerFragment">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/the_total_number_of_customers_is"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/countCustomer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/downloadCus_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_short"
+            android:background="@drawable/cornered_button"
+            android:drawableEnd="@drawable/download"
+            android:padding="20dp"
+            android:text="@string/download_customer_file"
+            android:textColor="@android:color/white"
+            android:textSize="18dp" />
+    </LinearLayout>
+</FrameLayout>
+

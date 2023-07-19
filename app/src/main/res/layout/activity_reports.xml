@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pager.ReportsActivity">
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:tabBackground="@color/black"
+        app:tabIndicatorColor="@color/colorAccent"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextColor="@color/colorAccent"
+        tools:ignore="MissingConstraints"
+        android:background="@color/black"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="110dp">
+
+
+
+    </com.google.android.material.tabs.TabLayout>
+
+<!--        <com.google.android.material.tabs.TabItem-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="@string/categoty"-->
+
+<!--            />-->
+
+<!--        <com.google.android.material.tabs.TabItem-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="@string/customer" />-->
+
+<!--        <com.google.android.material.tabs.TabItem-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="@string/suppliertab" />-->
+
+<!--        <com.google.android.material.tabs.TabItem-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="@string/invoice" />-->
+<!--    </com.google.android.material.tabs.TabLayout>-->
+
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below = "@+id/tabs"/>
+
+</LinearLayout>
+

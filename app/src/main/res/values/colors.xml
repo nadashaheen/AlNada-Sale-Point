@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#4CAF50</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFECE2F</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#ff6d00</color>
+    <color name="backCat">#86FF6D00</color>
+    <color name="back">#FF9800</color>
+    <color name="colortrans">#27FF6D00</color>
+    <color name="bordertrans">#20000000</color>
+    <color name="coloricon">#B5FF6D00</color>
+    <color name="colortext">#310A4583</color>
+    <color name="whitetrans">#D7FFFFFF</color>
+    <color name="stcolor">#A888EA</color>
+    <color name="encolor">#5836F3</color>
+    <color name="trans">#00FFFFFF</color>
+    <color name="tran">#00FFFFFF</color>
+    <color name="gray">#757070</color>
+    <color name="colorPrimar">@android:color/holo_green_light</color>
+    <color name="colorPrimaryDar">#303F9F</color>
+    <color name="colorAccen">#FF4081</color>
+    <color name="colorWhit">#ffffff</color>
+    <color name="colorBlac">#000000</color>
+    <color name="colorBorde">#d0ced0</color>
+</resources>

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">الندى</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="email">الإيميل</string>
+    <string name="password">كلمة السر</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="enter_name">ادخل الاسم</string>
+    <string name="enter_number">ادخل رقم الهاتف</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="add_category">أضف تصنيف</string>
+    <string name="category_name">اسم التصنيف</string>
+
+    <string name="add_customer">أضف عميل</string>
+    <string name="customer_name">اسم العميل</string>
+    <string name="customer_call">رقم هاتف العميل</string>
+    <string name="customer_email">ايميل العميل</string>
+    <string name="customer_address">عنوان العميل</string>
+
+    <string name="product_name">اسم المنتج</string>
+    <string name="product_code">كود المنتج</string>
+    <string name="product_price">سعر المنتج</string>
+    <string name="product_unit">كمية المنتج</string>
+    <string name="product_description">وصف المنتج</string>
+    <string name="add_product">أضف منتج</string>
+    <string name="name">الاسم :</string>
+    <string name="code">الكود :</string>
+    <string name="price">السعر :</string>
+    <string name="unit">الكمية :</string>
+    <string name="category">التصنيف :</string>
+    <string name="supplier">الموزع :</string>
+    <string name="description">الوصف :</string>
+    <string name="add">أضف</string>
+    <string name="welcome_admin">مرحباً</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="call">رقم الهاتف :</string>
+    <string name="address">العنوان :</string>
+    <string name="categoty">📌 التصنيفات </string>
+    <string name="invoice">الفواتير</string>
+    <string name="suppliertab">الموزعين</string>
+    <string name="customer">الزبائن</string>
+    <string name="al_nada">الندى</string>
+    <string name="al_nada_sale_point">نقطة بيع الندى</string>
+    <string name="update_category">تعديل بيانات التصنيف</string>
+    <string name="update_customer">تعديل بيانات الزبون</string>
+
+    <string name="update_product">تعديل بيانات المنتج</string>
+    <string name="update_supplier">تعديل بيانات الموزع</string>
+
+    <string name="supplier_address">عنوان الموزع</string>
+    <string name="supplier_email">ايميل الموزع</string>
+    <string name="supplier_call">رقم هاتف الموزع</string>
+    <string name="supplier_name">اسم الموزع</string>
+    <string name="add_supplier">أضف عميل</string>
+    <string name="supplierdask">العملاء</string>
+    <string name="products">المنتجات</string>
+    <string name="categorydash">التصنيفات</string>
+    <string name="report">تقاير</string>
+    <string name="total">الإجمالي :</string>
+    <string name="check_out">دفع</string>
+    <string name="wholesale_price">السعر بالجملة</string>
+
+    <string name="discount">الخصم</string>
+    <string name="percent">النسبة:</string>
+    <string name="add_discount">أضف خصم</string>
+    <string name="discount_code">كود الخصم</string>
+    <string name="discount_percentage">نسبة الخصم</string>
+    <string name="discount_code_optional">كود الخصم (اختياري)</string>
+    <string name="download_category_file">تنزيل بيانات التصنيفات</string>
+    <string name="the_total_number_of_categories_is">العدد الإجمالي للتصنيفات :</string>
+    <string name="the_total_number_of_customers_is">العدد الإجمالي للزبائن :</string>
+    <string name="download_customer_file">تنزيل بيانات الزبائن</string>
+    <string name="sales_profit">الأرباح :</string>
+    <string name="the_total_number_of_invoice_is">العدد الإجمالي للفواتير :</string>
+    <string name="download_invoice_file"> تنزيل بيانات الفواتير</string>
+    <string name="download_supplier_file">تنزيل بيانات العملاء</string>
+    <string name="the_total_number_of_suppliers_is">العدد الإجمالي للعملاء :</string>
+    <string name="make_discount">فعّل الخصم</string>
+    <string-array name="title">
+        <item>التصنيفات</item>
+        <item>الزبائن</item>
+        <item>الموزعين</item>
+        <item>الفواتير</item>
+    </string-array>
+
+</resources>

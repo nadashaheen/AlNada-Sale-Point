@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">AlNada</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="add_category">Add Category</string>
+    <string name="category_name">Category Name</string>
+
+    <string name="add_customer">Add Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_call">Customer Call</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="customer_address">Customer Address</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="product_code">Product Code</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_unit">Product Unit</string>
+    <string name="product_description">Product Description</string>
+    <string name="add_product">Add Product</string>
+    <string name="name">Name:</string>
+    <string name="code">Code:</string>
+    <string name="price">Price:</string>
+    <string name="unit">Unit:</string>
+    <string name="category">Category:</string>
+    <string name="supplier">Supplier:</string>
+    <string name="description">Description:</string>
+    <string name="add">Add</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="login">Login</string>
+    <string name="call">Call:</string>
+    <string name="address">Address:</string>
+    <string name="categoty">📌 Categoty</string>
+    <string name="invoice">Invoice</string>
+    <string name="suppliertab">Supplier</string>
+    <string name="customer">Customer</string>
+    <string name="al_nada">Al Nada</string>
+    <string name="al_nada_sale_point">AL Nada Sale Point</string>
+    <string name="update_category">Update Category</string>
+    <string name="update_customer">Update Customer</string>
+
+    <string name="update_product">Update Product</string>
+    <string name="update_supplier">Update Supplier</string>
+
+    <string name="supplier_address">Supplier Address</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="supplier_call">Supplier Call</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="add_supplier">Add Supplier</string>
+    <string name="supplierdask">Supplier</string>
+    <string name="products">Products</string>
+    <string name="categorydash">Category</string>
+    <string name="report">Report</string>
+    <string name="total">Total :</string>
+    <string name="check_out">Check Out</string>
+    <string name="wholesale_price">wholesale price</string>
+
+
+    <string name="discount">Discount</string>
+    <string name="percent">Percent:</string>
+    <string name="add_discount">Add Discount</string>
+    <string name="discount_code">discount code</string>
+    <string name="discount_percentage">discount percentage</string>
+    <string name="discount_code_optional">discount code (optional)</string>
+    <string name="download_category_file">Download Category File</string>
+    <string name="the_total_number_of_categories_is">The total number of Categories is :</string>
+    <string name="the_total_number_of_customers_is">The total number of Customers is :</string>
+    <string name="download_customer_file">Download Customer File</string>
+    <string name="sales_profit">sales profit:</string>
+    <string name="the_total_number_of_invoice_is">The total number of Invoice is :</string>
+    <string name="download_invoice_file">Download Invoice File</string>
+    <string name="download_supplier_file">Download Supplier File</string>
+    <string name="the_total_number_of_suppliers_is">The total number of Suppliers is :</string>
+    <string name="make_discount">make discount</string>
+    <string-array name="title">
+        <item>Category</item>
+        <item>Customer</item>
+        <item>Supplier</item>
+        <item>Invoice</item>
+    </string-array>
+
+</resources>
